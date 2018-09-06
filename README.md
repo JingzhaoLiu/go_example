@@ -12,7 +12,7 @@ go超实用的代码段
 
 4. [随机数生成器（并发）](./randGenerator.go)
 
-5. [切片中统计出现次数](./sliceCount.go)
+5. [切片中统计出现次数(笨办法)](./sliceCount.go)
 
 
 ### 实用
